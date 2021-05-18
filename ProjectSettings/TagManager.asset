@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - ThinGround
+  - Wall
+  - Enemy
+  - Bullet
+  - PuzzleObject
+  - NPC
+  - Object
+  - ShowCut
+  - Trap
+  - FxTemporaire
+  - Boss
+  - Scaffold
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Monster
+  - Confiner
+  - ThinGround
+  - Bullet
+  - RangeCheck
+  - PuzzleObject
+  - Interaction
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 802623153
+    locked: 0
+  - name: Object
+    uniqueID: 3920129297
+    locked: 0
+  - name: Frontground
+    uniqueID: 3222535417
+    locked: 0
